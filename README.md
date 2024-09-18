@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumit-Bh
 - 👀 I’m interested in Neural Networks Implementation in FPGA using CORDIC algorithm
-- 🌱 I’m currently learning VLSI
+- 🌱 I’m currently working on Multimedia Video IP-RTL develeopment and low power designs
 - 💞️ I’m looking to collaborate on SoC based projects
 - 📫 How to reach me You can reach out to me at sumit.bhurewar14@gmail.com
 
